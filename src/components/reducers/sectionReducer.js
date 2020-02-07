@@ -6,6 +6,6 @@ export const sectionReducer = (state = [], action) => {
       let newSections = state.filter(section => section.id !== action.id);
       return newSections;
     default:
-      return [];
+      return [...state];
   }
 };

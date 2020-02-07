@@ -49,3 +49,8 @@ https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137
 - [ ] delete section
 - [ ] add class to section with drag and drop
 - [ ] calculate system
+
+### LL
+
+- when we use one of the reducers in one store, all the other reducers(which combined)  
+  will be do their default action.

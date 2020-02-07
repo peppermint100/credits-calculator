@@ -1,11 +1,10 @@
 import React from "react";
 import AddSection from "./AddSection";
 import Section from "./Section";
-import { addSection, removeSection } from "./actions/actions";
-import { useSelector, useDispatch } from "react-redux";
+import { addSection, removeSection } from "./actions/sectionActions";
+import { useDispatch } from "react-redux";
 
 function Sections() {
-  const section = useSelector(state => state.sectionReducer);
   const dispatch = useDispatch();
 
   const handleAddSection = content => {

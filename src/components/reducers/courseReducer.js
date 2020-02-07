@@ -6,6 +6,6 @@ export const courseReducer = (state = [], action) => {
       let newCourses = state.filter(course => course.id !== action.id);
       return newCourses;
     default:
-      return [];
+      return [...state];
   }
 };
