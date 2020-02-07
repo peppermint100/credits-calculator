@@ -1,19 +1,18 @@
 import React from "react";
-import styled from "styled-components";
+
 import Header from "./Header";
-import ClassInput from "./ClassInput";
 import Classes from "./Classes";
-import AddSection from "./AddSection";
 import Sections from "./Sections";
+
+const course = "Course";
+const section = "Section";
 
 function Main() {
   return (
     <>
-      <Header />
-      <ClassInput />
+      <Header content={course} />
       <Classes />
-      <Header />
-      <AddSection />
+      <Header content={section} />
       <Sections />
     </>
   );
