@@ -17,7 +17,7 @@
 - object { id, className, credits }
 - save data in redux
 - user can send classes data to localstorage
--
+- usercan load classes from localstorage
 
 2. sections
 

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import ClassInput from "./ClassInput";
 import Class from "./Class";
 import { useSelector, useDispatch } from "react-redux";
-import { addCourse, removeCourse } from "./actions/actions";
+import { addCourse } from "./actions/actions";
 
 function Classes() {
   const courses = useSelector(state => state.courseReducer);
