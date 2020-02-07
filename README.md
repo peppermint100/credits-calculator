@@ -42,10 +42,10 @@ https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137
 
 ### To do
 
-[x] add class component in classes show data from redux
-[x] delete class from redux
-[] save classes to local storage
-[] add section
-[] delete section
-[] add class to section with drag and drop
-[] calculate system
+- [x] add class component in classes show data from redux
+- [x] delete class from redux
+- [ ] save classes to local storage
+- [ ] add section
+- [ ] delete section
+- [ ] add class to section with drag and drop
+- [ ] calculate system
