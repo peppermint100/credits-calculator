@@ -5,9 +5,8 @@ export const addSection = data => {
   };
 };
 
-export const removeSection = id => {
+export const removeSection = () => {
   return {
-    type: "REMOVE_SECTION",
-    id
+    type: "REMOVE_SECTION"
   };
 };

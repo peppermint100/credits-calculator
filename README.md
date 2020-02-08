@@ -45,10 +45,11 @@ https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137
 - [x] add class component in classes show data from redux
 - [x] delete class from redux
 - [ ] save classes to local storage
-- [ ] add section
+- [x] add section
 - [ ] delete section
 - [ ] add class to section with drag and drop
 - [ ] calculate system
+- [ ] design
 
 ### LL
 
