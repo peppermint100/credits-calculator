@@ -1,39 +1,15 @@
-## Pages(Components)
+### Storage
 
-1. intro
-2. main
+- section to LS, drag item to redux
 
-### intro
+### custom function concept
 
-- text fade animation
-- link button to main
-- custom hook useFadein
+- LS function
 -
 
-### main
-
-1. user type their classes info
-
-- object { id, className, credits }
-- save data in redux
-- user can send classes data to localstorage
-- usercan load classes from localstorage
-
-2. sections
-
-- user set sections from the very start
--
-
-3. redux
-
-- store contains classes
-- store contains sections
--
-
-### extra libraries
+### libraries
 
 - styled-components
-- drag and drop
 - redux
 
 ### design
@@ -42,16 +18,4 @@ https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137
 
 ### To do
 
-- [x] add class component in classes show data from redux
-- [x] delete class from redux
-- [ ] save classes to local storage
-- [x] add section
-- [ ] delete section
-- [ ] add class to section with drag and drop
-- [ ] calculate system
-- [ ] design
-
-### LL
-
-- when we use one of the reducers in one store, all the other reducers(which combined)  
-  will be do their default action.
+- LS function
