@@ -9,7 +9,6 @@ function List({ majorCourses, subMajorCourses, liberalCourses, renderList }) {
   const onClickDelete = e => {
     let type = e.target.name;
     let id = parseInt(e.target.value);
-    console.log(id, type);
     deleteFromLocalStorage(type, id, renderList);
   };
 
