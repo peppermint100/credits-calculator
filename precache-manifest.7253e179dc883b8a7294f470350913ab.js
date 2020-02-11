@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c26b0f4a5371ce3a948780a65c1af624",
+    "revision": "b6242646ecc61fff2b86c92f2c7c2bee",
     "url": "/credits-calculator/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/credits-calculator/static/js/2.2dc621dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "191cbf8f770a00c6a618",
-    "url": "/credits-calculator/static/js/main.e587f150.chunk.js"
+    "revision": "bc8300bfcfe23f34e02b",
+    "url": "/credits-calculator/static/js/main.4acd4348.chunk.js"
   },
   {
     "revision": "a896e45601cf49398a90",
